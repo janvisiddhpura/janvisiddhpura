@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janvisiddhpura)](https://git.io/streak-stats) // STREAKS WILL BE ADDED
+![counter](https://[YOUR_ENDPOINT].m.pipedream.net) // PROFILE VIEWS
+[![trophy](https://github-profile-trophy.vercel.app/?username=janvisiddhpura&theme=onedark)](https://github.com/janvisiddhpura/github-profile-trophy)  // TROPHIES WILL BE ADDED
 <!--
 **janvisiddhpura/janvisiddhpura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
