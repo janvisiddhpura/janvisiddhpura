@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Janvi Siddhpura..
+<center># Hi there 👋, I'm Janvi Siddhpura..</center>
 ### A passionate Software Developer ||
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janvisiddhpura)](https://git.io/streak-stats) <!-- STREAKS WILL BE ADDED-->
 
