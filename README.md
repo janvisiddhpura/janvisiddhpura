@@ -1,9 +1,9 @@
-<center># Hi there 👋, I'm Janvi Siddhpura..</center>
+# Hi there 👋, I'm Janvi Siddhpura..
 ### A passionate Software Developer ||
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=janvisiddhpura)](https://git.io/streak-stats) <!-- STREAKS WILL BE ADDED-->
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
-![counter](https://github.com/janvisiddhpura.m.pipedream.net) 
+![](https://komarev.com/ghpvc/?username=janvisiddhpura&color=green)
 [![trophy](https://github-profile-trophy.vercel.app/?username=janvisiddhpura&theme=onedark)](https://github.com/janvisiddhpura/github-profile-trophy)  <!-- TROPHIES WILL BE ADDED -->
 <!--
 **janvisiddhpura/janvisiddhpura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
