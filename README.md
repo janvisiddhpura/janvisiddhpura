@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janvisiddhpura&layout=compact)](https://github.com/janvisiddhpura/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janvisiddhpura)](https://github.com/janvisiddhpura/github-readme-stats)-->
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+![Janvi GitHub Stats](https://github-readme-stats.vercel.app/api?username=janvisiddhpura&show_icons=true)
 <!--![](https://komarev.com/ghpvc/?username=janvisiddhpura&color=green)-->
 
 <!--
