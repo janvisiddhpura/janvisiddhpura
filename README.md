@@ -1,5 +1,5 @@
-<h2 align="center"> Hi there 👋, I'm Janvi Siddhpura </h2>
-<p align="center"> A passionate Software Developer .. </p>
+  <h2 align="center"> Hi, I'm Janvi Siddhpura :wave:</h2>
+<h4 align="center"> I am a Passionate Polymath </h4>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=janvisiddhpura&theme=onedark)](https://github.com/janvisiddhpura/github-profile-trophy)  <!-- TROPHIES WILL BE ADDED -->
 - 💬 Ask me about Software Development <br/>
